@@ -1,0 +1,6 @@
+# Application dependencies
+
+require:
+    - play
+    - junit -> junit 4.11
+    - org.easymock -> easymock 3.2
